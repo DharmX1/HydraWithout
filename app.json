@@ -1,0 +1,29 @@
+
+{
+    "name": "HydraBots",
+    "description": "HydraBots",
+    "repository": "https://github.com/DharmX1/HydraWithout",
+    "keywords": [
+        "telegram bot",
+        "pyrogram"
+    ],
+    "env": {
+        "API_ID":{
+            "description": "Get your telegram API ID from https://my.telegram.org",
+            "value":"8d0fe8b5ae8149455681681253b2ef17"
+        },
+        "API_HASH":{
+            "description":"Get your telegram API HASH from https://my.telegram.org",
+		    "value":"21601817"
+        },
+        "BOT_TOKEN":{
+            "description":"Get from BotFather",
+            "value":"7558666783:AAFNYl8qCYrxhNQHkGOodp4alrFvD3viGzU"
+        },
+        "AUTH_USERS":{
+            "description":"Admin/Owner/Friends ID Seperate by ','  Ex: 6764661699,6705556585",
+            "value":"6764661699"
+        }
+    }
+
+}
